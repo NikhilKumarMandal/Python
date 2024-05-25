@@ -1,7 +1,7 @@
 from pymongo import MongoClient
 from bson import ObjectId
 
-client = MongoClient('mongodb+srv://karan:nikhil@cluster0.joatyap.mongodb.net/',tlsAllowInvalidCertificates=True)
+client = MongoClient('mongodb+srv://henjcdjcdnccdb:nickdcdbhxdhidbcdbhcdl@cluster0.joatyap.mongodb.net/',tlsAllowInvalidCertificates=True)
 
 print(client)
 
